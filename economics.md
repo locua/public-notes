@@ -67,3 +67,34 @@ Opportunity cost is the trade off for moving along on the PPF.
 
 The marginal cost is the opportunity cost of 1 unit.
 
+## Increasing opportunity cost
+
+Why does the show up in economic models?
+
+Rates of production are not constant
+
+In the rabbit-berry example, some berries are easier to get, some are harder. Some rabbits are easier to catch and the later ones are more likely to be harder.
+
+## Shapes of PPC's
+
+A straight PPC indicates a constant relationship; the opportunity cost remains constant.
+A PPC with a steepening gradient indicates an increasing opportunity cost.
+> Example: harder rabbits take more time and cost more berries.
+A PPC with a softening gradient indicates a decreasing opportunity cost.
+> Example: first rabbit is harder to catch. as i warm up rabbits become easier to catch.
+
+## PPC's as a model for a countries economy
+
+PPC growth: increases in land, capital, labour may grow the curve.
+PPC contraction: may occur due to e.g. war and hence reduction in labour, capital, tech etc.
+
+# Comparative advantage, specialisation and gains from trade
+
+Opportunity costs can be compared. 
+
+An actor with a lower opportunity cost, in for example plates, has a comparative advantage in plates.
+
+Specialisation can occur and and goods can be traded at a cost better than an actor's opportunity cost.
+
+# Comparative advantage and absolute advantage
+
