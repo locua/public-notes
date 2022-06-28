@@ -12,14 +12,15 @@ Water = a scarce resource
 Air = a free resource (it is a seemingly infinite resource)
 
 ## Normative and positive statements
-- Normative statement = a statement that is a matter of opinion (subjective).
-- Positive statement  = a statement that is testable.
+Normative statement = a statement that is a matter of opinion (subjective).
 
-"Paying people who aren't working, even though they could work, is wrong and unfair." -> Normative statement.
-"Programs like welfare reduce the incentive for people to work." 		      -> Positive statement.
-"Raising taxes on the wealthy to pay for government programs grows the economy."      -> Positive statement.
-"Raising taxes on the wealthy slows economic growth." 			 	      -> Positive statement.
-"The government should raises taxes on the wealthy to pay for helping the poor."      -> Normative statement.
+Positive statement  = a statement that is testable.
+
+- "Paying people who aren't working, even though they could work, is wrong and unfair." -> Normative statement.
+- "Programs like welfare reduce the incentive for people to work." 		        -> Positive statement.
+- "Raising taxes on the wealthy to pay for government programs grows the economy."      -> Positive statement.
+- "Raising taxes on the wealthy slows economic growth." 			 	-> Positive statement.
+- "The government should raises taxes on the wealthy to pay for helping the poor."      -> Normative statement.
 
 ## Economic models
 Complex real world systems can be modelled by using simplifying assumptions.
